@@ -7,7 +7,7 @@ This repository contains the code for reproducing simulation and real data analy
 
 ### Python module
 
-- causarray: The main module for the proposed causal inference method.
+- `causarray`: The main module for the proposed causal inference method. ***The package in the current repo is an early version for the purpose of reproducibility; please check out the [latest version of `causarray`](https://github.com/jaydu1/causarray) that is under development.***
 
 ### Scripts and Jupyter notebooks
 
@@ -73,6 +73,6 @@ For real data analysis on Lupus data, the workflow is as follows:
 
 # References
 
-- [1] Lalli, M. A., Avey, D., Dougherty, J. D., Milbrandt, J., & Mitra, R. D. (2020). High-throughput single-cell functional elucidation of neurodevelopmental disease–associated genes reveals convergent mechanisms altering neuronal differentiation. Genome research, 30(9), 1317-1331.
+- [1] Lalli, M. A., Avey, D., Dougherty, J. D., Milbrandt, J., & Mitra, R. D. (2020). "High-throughput single-cell functional elucidation of neurodevelopmental disease–associated genes reveals convergent mechanisms altering neuronal differentiation. Genome research, 30(9), 1317-1331.
 - [2] Perez, Richard K., et al. "Single-cell RNA-seq reveals cell type–specific molecular and genetic associations to lupus." Science 376.6589 (2022): eabf1970.
-- [3] Du, Jin-Hong, Larry Wasserman, and Kathryn Roeder. "Simultaneous inference for generalized linear models with unmeasured confounders." arXiv preprint arXiv:2309.07261 (2023).
+- [3] Jin-Hong Du, Larry Wasserman, and Kathryn Roeder. "Simultaneous inference for generalized linear models with unmeasured confounders." arXiv preprint arXiv:2309.07261 (2023).
